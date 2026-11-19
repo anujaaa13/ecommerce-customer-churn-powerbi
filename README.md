@@ -24,4 +24,4 @@ An end-to-end customer churn analytics project combining Exploratory Data Analys
 
 ## Tools & Technologies
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn (Jupyter Notebook)
-- **Business Intelligence:** Power BI Desktop, DAX, Interactive Data Visualization
+- **Business Intelligence:** Power BI Desktop, Interactive Data Visualization
